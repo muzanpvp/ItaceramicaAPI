@@ -34,7 +34,7 @@ File.WriteAllText("assets/users/users.json",serialized2);
 List<Compra> compras = new List<Compra>();
 
 Compra compra = new Compra(1,produto,usuario,DateTime.Now);
-Compra compra2 = new Compra(2,produto,usuario2,DateTime.Now);
+Compra compra2 = new Compra(2,produto2,usuario2,DateTime.Now);
 Compra compra3 = new Compra(3,produto3,usuario3,DateTime.Now);
 
 compras.Add(compra);
