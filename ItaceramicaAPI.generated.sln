@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ItaceramicaAPI", "ItaceramicaAPI.csproj", "{CD953DDA-F1C0-46E8-95B5-28F23540C8C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD953DDA-F1C0-46E8-95B5-28F23540C8C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD953DDA-F1C0-46E8-95B5-28F23540C8C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD953DDA-F1C0-46E8-95B5-28F23540C8C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD953DDA-F1C0-46E8-95B5-28F23540C8C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F302C35A-1FC3-4125-85DA-CB6E7C8E869B}
+	EndGlobalSection
+EndGlobal
